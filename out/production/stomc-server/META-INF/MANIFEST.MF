@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: main.Main
+Class-Path: eclipselink.jar dominioStomc.jar negocioStomc.jar mssql-jdbc
+ -9.2.1.jre8.jar javax.persistence_2.1.0.v201304241213.jar org.eclipse.p
+ ersistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar
+

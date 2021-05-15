@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="stomc-server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stomc_server_jar</output-path>
+    <root id="root">
+      <element id="archive" name="stomc-server.jar">
+        <element id="module-output" name="stomc-server" />
+      </element>
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>
